@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&duration=4000&pause=1000&color=368FF7&center=true&vCenter=true&width=435&lines=Hi%2C+im+Rotstein%2+a+computercience+student;a+Minecraft+enthusiast;I+learned+HTML%2C+CSS%2C+Java%2C+C%2B%2B+and+C%23)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=700&duration=4000&pause=1000&color=368FF7&center=true&vCenter=true&width=435&lines=Hi%2C+im+Rotstein%2C+a+computercience+student;a+Minecraft+enthusiast;I+learned+HTML%2C+CSS%2C+Java%2C+C%2B%2B+and+C%23)](https://git.io/typing-svg)
 
 <!--
 **Rotstein007/Rotstein007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
