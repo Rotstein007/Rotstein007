@@ -1,4 +1,4 @@
-![Tux](https://github.com/user-attachments/assets/c4bb352c-e935-43d0-a979-a2f220fb7a84)![Uploadi<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+![Tux](https://github.com/user-attachments/assets/c4bb352c-e935-43d0-a979-a2f220fb7a84)
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
